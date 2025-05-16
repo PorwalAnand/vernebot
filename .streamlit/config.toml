@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#7D3AC1"                # Scaling Up purple
+backgroundColor = "#121212"             # Dark background (black-like)
+secondaryBackgroundColor = "#2A2A2A"     # Slightly lighter section areas
+textColor = "#FFFFFF"                   # White text for contrast
+font = "sans serif"
